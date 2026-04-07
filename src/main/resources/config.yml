@@ -1,0 +1,6 @@
+aliases:
+  meteor:
+    open: "key.meteor-client.open-gui"
+    client: "key.category.meteor-client.meteor-client"
+cheataliases:
+  - meteor

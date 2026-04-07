@@ -2,7 +2,8 @@ name: TranslationDetector
 version: '1.0-SNAPSHOT'
 main: net.domracz.translationDetector.TranslationDetector
 api-version: '1.21'
-prefix: SurviveAbuse
+prefix: TDET
 load: STARTUP
+depend: [ packetevents]
 authors: [ Domracz ]
-description: SurviveAbuse Main Plugin
+description: Gives the ability to detect what translation keys a client holds.
