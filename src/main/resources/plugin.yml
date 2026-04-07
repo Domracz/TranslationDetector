@@ -1,0 +1,8 @@
+name: TranslationDetector
+version: '1.0-SNAPSHOT'
+main: net.domracz.translationDetector.TranslationDetector
+api-version: '1.21'
+prefix: SurviveAbuse
+load: STARTUP
+authors: [ Domracz ]
+description: SurviveAbuse Main Plugin
